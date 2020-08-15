@@ -13,8 +13,8 @@
 
 ## About
 Student Attendance Portal is another project of attendance management system.This app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+|[Demo Video](https://www.youtube.com/watch?v=pzbbI7wJgZ8)|
 |--|
-
 
 ## Features
 - Realtime-synchronization with database.
