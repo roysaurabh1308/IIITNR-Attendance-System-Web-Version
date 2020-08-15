@@ -1,0 +1,16 @@
+{
+    "name": "saurabh/test",
+    "description": "Attendance",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Saurabh Roy",
+            "email": "roysaurabh1308@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "4.18"
+    }
+}
