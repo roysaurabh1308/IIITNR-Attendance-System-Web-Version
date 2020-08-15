@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href=""><img src="Documentation/icons/build.svg" target="_blank" alt="Build Status"></a>
-<a href="https://github.com/saurabhpandey9/Attendance-Management-App-Student-version-II" target="_blank"><img src="Documentation/icons/stable.svg"  alt="Latest Stable Version"></a>
+<a href="https://github.com/roysaurabh1308/IIITNR-Attendance-System-Web-Version" target="_blank"><img src="Documentation/icons/stable.svg"  alt="Latest Stable Version"></a>
 <a href="Documentation/Attendance_register.apk" target="_blank"><img src="Documentation/icons/apk.svg" alt="Apk"><a>
 <a href="LICENSE" target="_blank"><img src="Documentation/icons/license.svg" alt="License"><a>
 <br>
@@ -13,7 +13,6 @@
 
 ## About
 Student Attendance Portal is another project of attendance management system.This app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
-|[Demo Video](https://www.youtube.com/watch?v=pzbbI7wJgZ8)|
 |--|
 
 
