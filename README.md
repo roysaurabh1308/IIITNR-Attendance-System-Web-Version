@@ -12,12 +12,14 @@
 </p>
 
 ## About
-Student Attendance Portal is another project of attendance management system.This app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+Student Attendance Portal is another project of attendance management system.This web-app will help the student to get information about the current status of their Attendace ,anytime they want.This is important for university students because of minimum 75 % attendance criteria.
+
 
 ## Features
 - Realtime-synchronization with database.
 - notification if attendace below threshold. 
 - can see all attendance details anytime they want.
+- Autogenerate the **Excel Sheet** corresponding to the attendance record of the students.
 
 ## Security 
 - Login details and device id verification to avoid fraud and Spamming.
@@ -26,19 +28,55 @@ Student Attendance Portal is another project of attendance management system.Thi
 
 
 # Screenshots #
+##Splashscreen & Dashboard
+|<img src="Documentation/Screenshots/1SplashScreen.png">|
+|:--:|
+|**Splashscreen**|
 
-|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-02-558_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-39-16-298_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-03-53-934_com.developerdesk9.attendanceregister.png" width="267">|
-|:--:|:--:|:--:|
-|**Splashscreen**|**Internet Check**|**Login**|
+
+|<img src="Documentation/Screenshots/2Dashboard.png">|
+|:--:|
+|**Splashscreen**|
 
 
-|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-33-176_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-38-375_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-53-50-779_com.developerdesk9.attendanceregister.png" width="267">|
-|:--:|:--:|:--:|
-|**Navigation drawer**|**Profile Section**|**Change Password**|
+|<img src="Documentation/Screenshots/3LoginPanel.png">|
+|:--:|
+|**Splashscreen**|
 
-|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-52-29-664_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-15-17-58-748_com.developerdesk9.attendanceregister.png" width="267">|<img src="Documentation/Screenshots/Screenshot_2019-04-11-14-56-35-642_com.developerdesk9.attendanceregister.png" width="267">|
-|:--:|:--:|:--:|
-|**Dashboard**|**Select Enrolled subjects**|**Attendace Record with all required details**|
+
+|<img src="Documentation/Screenshots/4FacultyRegistration.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/5CreateStudentAccount.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/6SubjectEnrollment.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/7AttendanceRegister.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/8CreateAteendanceExcelSheet.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/9ViewAttendance.png">|
+|:--:|
+|**Splashscreen**|
+
+
+|<img src="Documentation/Screenshots/10OverallAttendance.png">|
+|:--:|
+|**Splashscreen**|
 
 
 ## Tools Used
