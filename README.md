@@ -28,7 +28,9 @@ Student Attendance Portal is another project of attendance management system.Thi
 
 
 # Screenshots #
-##Splashscreen & Dashboard
+
+## Splashscreen & Dashboard
+
 |<img src="Documentation/Screenshots/1SplashScreen.png">|
 |:--:|
 |**Splashscreen**|
@@ -36,47 +38,49 @@ Student Attendance Portal is another project of attendance management system.Thi
 
 |<img src="Documentation/Screenshots/2Dashboard.png">|
 |:--:|
-|**Splashscreen**|
+|**Dashboard**|
 
 
 |<img src="Documentation/Screenshots/3LoginPanel.png">|
 |:--:|
-|**Splashscreen**|
+|**Login Panel**|
 
+## Faculty Section
 
 |<img src="Documentation/Screenshots/4FacultyRegistration.png">|
 |:--:|
-|**Splashscreen**|
+|**Faculty Registration**|
 
 
 |<img src="Documentation/Screenshots/5CreateStudentAccount.png">|
 |:--:|
-|**Splashscreen**|
+|**Create Student Account**|
 
 
 |<img src="Documentation/Screenshots/6SubjectEnrollment.png">|
 |:--:|
-|**Splashscreen**|
+|**Subject Enrollment**|
 
 
 |<img src="Documentation/Screenshots/7AttendanceRegister.png">|
 |:--:|
-|**Splashscreen**|
+|**Attendance Register**|
 
 
 |<img src="Documentation/Screenshots/8CreateAteendanceExcelSheet.png">|
 |:--:|
-|**Splashscreen**|
+|**Create Atteendance Excel Sheet**|
 
+## Student Section
 
 |<img src="Documentation/Screenshots/9ViewAttendance.png">|
 |:--:|
-|**Splashscreen**|
+|**View Attendance**|
 
 
 |<img src="Documentation/Screenshots/10OverallAttendance.png">|
 |:--:|
-|**Splashscreen**|
+|**Overall Attendance**|
 
 
 ## Tools Used
