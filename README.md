@@ -85,10 +85,11 @@ Attendance Management System is a software developed for daily student attendanc
 
 
 ## Tools Used
-* [PHP](https://www.php.net/) : Used as the Android developement environment.
+* [PHP](https://www.php.net/) : Used as the Web developement environment.
 * [Firebase Realtime Database](https://firebase.google.com/products/realtime-database) : Used as the backend database.
 * [Firebase Storage](https://firebase.google.com/products/storage) : Use to store product Image
 * [Firebase Authentication](https://firebase.google.com/products/auth) : Used to manage User information
+* [XAMPP](https://www.apachefriends.org/index.html) : Used as the Webpage hosting server.
 
 ## Future Possibilities and Extension of this project
 - biometric can be implemented and integrate using device like **Raspberry Pi**.
